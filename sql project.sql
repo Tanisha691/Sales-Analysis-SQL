@@ -15,7 +15,7 @@
 -- q8. find average order value per User
 -- q9. show orders where total amount > 5000 witout using order table
 -- q10.create a triger to automaticly reduse product stock after inserting order details
--- q11. list users to made more than 3 orders in a month
+
 
 
 create database meesho;
@@ -278,7 +278,6 @@ values(1026,025,5,1,445);
 
 select*from product;
 
--- q11. list users to made more than 3 orders in a month
 
 
 
